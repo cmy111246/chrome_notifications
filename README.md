@@ -1,0 +1,2 @@
+因为web notifications 支持度不好（windows必须要用https）
+因此写了个扩展来监控推送 通知用户名 点击了桌面通知 跳转到指定的tab
